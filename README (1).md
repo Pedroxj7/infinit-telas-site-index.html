@@ -52,7 +52,7 @@
         <p class="text-lg mb-4">Serviço rápido, seguro e profissional para sua casa ou empresa.</p>
         <a href="#contato" class="bg-blue-600 text-white px-6 py-3 rounded hover:bg-blue-700">Solicite um orçamento</a>
       </div>
-      <img src="https://via.placeholder.com/600x400?text=Protecao+e+Persianas" alt="Imagem de proteção" class="rounded-xl shadow-lg" />
+      <img src= alt="Imagem de proteção" class="rounded-xl shadow-lg" />
     </div>
   </section>
 
@@ -82,7 +82,8 @@
   <!-- Sobre Nós -->
   <section id="sobre" class="py-16 bg-gray-50">
     <div class="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
-      <img src="https://via.placeholder.com/600x400?text=Equipe+de+conserto" alt="Equipe de conserto" class="rounded-xl shadow-md" />
+      <img src=![A](https://github.com/user-attachments/assets/4677109c-6c2f-41fb-8830-6ecb0f9180c8)
+"https://via.placeholder.com/600x400?text=Equipe+de+conserto" alt="Equipe de conserto" class="rounded-xl shadow-md" />
       <div>
         <h3 class="text-3xl font-semibold mb-4">Sobre Nós</h3>
         <p class="text-lg mb-4">Com mais de 10 anos de experiência, a Protec&Persianas é referência em consertos residenciais e comerciais. Nosso compromisso é com a sua segurança e conforto. Atendemos com agilidade, qualidade e preço justo.</p>
